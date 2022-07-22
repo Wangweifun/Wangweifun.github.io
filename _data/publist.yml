@@ -87,7 +87,7 @@
   image: CorrAwareDeepGener.png
   description: 
   authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Fengbin Zhang, Ruidong Wang,<strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zuoyong Li
-  venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD2020 (acceptance rate: 21%)
+  venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD2020 (acceptance rate:21%)
   number_link: 1
   link1:
     url: https://www.springerprofessional.de/en/correlation-aware-deep-generative-model-for-unsupervised-anomaly/17966082
